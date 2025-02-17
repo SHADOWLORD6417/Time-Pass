@@ -15,6 +15,10 @@ body {
     justify-content: center;
 }
 
+.gameOver {
+    background-color: red;
+}
+
 .red {
     background-color: #d95980;
 }
